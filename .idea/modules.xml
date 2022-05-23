@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Caso-de-uso-ddd.iml" filepath="$PROJECT_DIR$/.idea/Caso-de-uso-ddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrenamiento/business/business.iml" filepath="$PROJECT_DIR$/entrenamiento/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrenamiento/domain/domain.iml" filepath="$PROJECT_DIR$/entrenamiento/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrenamiento/entrenamiento.iml" filepath="$PROJECT_DIR$/entrenamiento/entrenamiento.iml" />
+    </modules>
+  </component>
+</project>
